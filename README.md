@@ -37,6 +37,7 @@ Barrier options require **path-dependent simulation**, making Monte Carlo a natu
 ## Planned Additions
 
 - Asian Options (arithmetic & geometric averaging)
+- Finite Difference Methods (Explicit, Crank Nicholson)
 - Volatility surface interpolation
 - Real market data calibration
 - American-style extensions via binomial trees
